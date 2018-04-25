@@ -6,3 +6,5 @@ languages:
   - Ruby
 resources:
   - http://api.rubyonrails.org/classes/ActionDispatch/Flash.html
+
+parent_template: git@github.com:learn-co-curriculum/has_secure_password_lab.git
